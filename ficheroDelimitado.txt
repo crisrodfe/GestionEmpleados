@@ -1,1 +1,1 @@
-1,Juan,Alvarez,Garcia,1435.0,2,Juan,Garcia,Franco,987.0,3,Manuel,Franco,Campos,897.0,4,Arturo,Lopez,Franco,1300.0,5,Ana,Perez,Alvarez,1543.0,
+1-Arturo-Lopez-Garcia-987.0-2-Ana-Alvarez-Saenz-985.0-3-Laura-Saenz-Franco-1300.0-4-Carla-Alvarez-Alvarez-1354.0-5-Javier-Perez-Delgado-1435.0-6-Lucas-Lopez-Campos-1300.0-7-Arturo-Delgado-Saenz-1435.0-8-Arturo-Alvarez-Franco-980.0-9-Javier-Sanchez-Sanchez-1524.0-10-Juan-Perez-Franco-985.0-
